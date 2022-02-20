@@ -1,0 +1,13 @@
+.container{
+    width:1000px;
+    margin:auto;
+}
+.row{
+    display:flex;
+    flex-wrap: wrap;
+}
+.box{
+    width:30%;
+    margin:auto;
+    background-color: rgb(127, 255, 212);
+}
